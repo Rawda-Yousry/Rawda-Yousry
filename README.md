@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/rawda-yousry-379a02235" target="_blank"><img src="https://img.shields.io/badge/-Rawda%20Yousry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rawda-yousry-379a02235" target="_blank"><img src="https://img.shields.io/badge/-Rawda%20Yousry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="mailto:rawdayousry22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,7 +30,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-C-05122A?style=flat&logo=C11)&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=C%2B%2B&logoColor=white)
+
+
+
+
 
 
 
