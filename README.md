@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical-Enginnering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Senior Biomedical Engineering Student
+- 🏢 I'm a fresh graduate in Biomedical Engineering.
 - 👨‍💻 As an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 I'm interested in game and web development.
 - ✨ I have a good knowledge in Analog IC design and embedded systems.
