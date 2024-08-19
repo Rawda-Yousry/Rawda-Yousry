@@ -11,7 +11,7 @@
 
 - 🏢 I'm a fresh graduate in Biomedical Engineering.
 - 👨‍💻 As an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I'm interested in game and web development.
+- 💬 I'm interested in software development.
 - ✨ I have a good knowledge in Analog IC design and embedded systems.
 - 💻 Currently, I am open to joining an internship.
 
